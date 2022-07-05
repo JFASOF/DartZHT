@@ -1,7 +1,7 @@
 void main(List<String> args) {
   List list = []; // empty list
   List<String> names = ['John', 'Jane', 'Mary'];  // list of strings
-  print(names);
+  print(names);//
   print(names[0]); // John
   print(names.length);
   print(names.isEmpty);

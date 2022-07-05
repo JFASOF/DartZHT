@@ -8,7 +8,7 @@
         {
             // A name for the launch config. This will show in the dropdown on the Run side bar.
             "name": "Current File (release mode)",
-             "program": "04-conditions.dart",
+             "program": "10-oop-fundementals.dart",
             // This should always be "dart" for Dart/Flutter apps.
             // This selects the Dart debugger.
             "type": "dart",

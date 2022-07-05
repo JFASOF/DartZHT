@@ -1,8 +1,8 @@
 import 'dart:io';
 
 void main(List<String> args) {
-  int a=5;
-  int b=10;
+  int a=5;//a is a variable
+  int b=10;//b is a variable
 
   if(a>b){
     print("a is greater than b");

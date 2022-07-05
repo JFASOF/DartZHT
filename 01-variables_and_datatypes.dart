@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  int age = 10; //initialize variable
+  int age = 10; //initialize variable.
 
   late int age2; //declare variable and initialize it later
   age2 = 20;
